@@ -1,0 +1,47 @@
+! .Xresources layout based off of: 
+! https://github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/XresourceTomorrowNightEighties
+
+URxvt.scrollBar: false
+URxvt*font: xft:DejaVu Sans Mono for Powerline:size=9:antialias=true:hinting=true
+URxvt.perl-ext-common: default,matcher,
+URxvt.url-launcher: /usr/bin/google-chrome
+URxvt.matcher.button: 1
+
+
+#include</home/adrian/projects/xresources/capture_cc/creek_colours-color10>
+
+*.foreground: t_foreground
+*.background: t_background
+*.cursorColor: #aeafad
+
+! Black / Grey
+*.color0:	#000000
+*.color8: 	#666666
+
+! Pair one
+*.color1:	t_p1c1
+*.color9:	t_p1c2
+
+! Pair two
+*.color2:	t_p2c1
+*.color10:	t_p2c2
+
+! Pair three
+*.color3:	t_p3c1
+*.color11:	t_p3c2
+
+! Pair four
+*.color4:	t_p4c1
+*.color12:	t_p4c2
+
+! Pair five
+*.color5:	t_p5c1
+*.color13:	t_p5c2
+
+! Pair six
+*.color6:	t_p6c1
+*.color14:	t_p6c2
+
+! Light Grey (Selection) + White (Current Line)
+*.color7:	t_selection
+*.color15:	t_current_line

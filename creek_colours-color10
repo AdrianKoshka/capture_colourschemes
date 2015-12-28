@@ -1,0 +1,23 @@
+! Creek Colours + Color10! 
+! Creek Colours: http://adobe.ly/1QP9ri8
+! Color10: http://adobe.ly/1SeOvAo
+! Color #c3b495 taken from bulb theme by dkeg:
+! https://github.com/dkeg/crayolo/blob/master/bulb#L14
+
+#define t_background	#242223
+#define t_current_line	#c3b495
+#define t_selection	#c3b495
+#define t_foreground	#c3b495
+#define t_comment	#62AD7B
+#define t_p1c1		#AEB5BF
+#define t_p1c2		#4480A6
+#define t_p2c1		#979FA6
+#define t_p2c2		#A7C6D9
+#define t_p3c1		#F2F2F2
+#define t_p3c2		#568FA6
+#define t_p4c1		#6C7173
+#define t_p4c2		#4A7A8C
+#define t_p5c1		#A68776		
+#define t_p5c2		#F0F2F2
+#define t_p6c1		#AA9E9B
+#define t_p6c2		#9AB9CC
