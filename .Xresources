@@ -1,14 +1,9 @@
 ! .Xresources layout based off of: 
 ! https://github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/XresourceTomorrowNightEighties
 
-URxvt.scrollBar: false
-URxvt*font: xft:DejaVu Sans Mono for Powerline:size=9:antialias=true:hinting=true
-URxvt.perl-ext-common: default,matcher,
-URxvt.url-launcher: /usr/bin/google-chrome
-URxvt.matcher.button: 1
-
-
 #include</home/adrian/projects/xresources/capture_cc/creek_colours-color10>
+
+! Other .Xresources code here
 
 *.foreground: t_foreground
 *.background: t_background
