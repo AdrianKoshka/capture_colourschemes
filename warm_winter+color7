@@ -1,11 +1,11 @@
-! Creek Colours + Color10! 
-! Creek Colours: http://adobe.ly/1QP9ri8
-! Color10: http://adobe.ly/1SeOvAo
-! Color #c3b495 taken from bulb theme by dkeg:
+! Warm Winter + Color07! 
+! Warm Winter: http://adobe.ly/1Zryidl
+! Color07: http://adobe.ly/1J7cyz9
+! Color #C3B495 taken from bulb theme by dkeg:
 ! https://github.com/dkeg/crayolo/blob/master/bulb#L14
 
 #define t_background	#242223
-#define t_current_line	#c3b495
+#define t_current_line	#C3B495
 #define t_selection	#C3B495
 #define t_foreground	#C3B495
 #define t_comment	#62AD7B
