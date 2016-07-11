@@ -1,7 +1,7 @@
 ! .Xresources layout based off of: 
 ! https://github.com/chriskempson/tomorrow-theme/blob/master/Xdefaults/XresourceTomorrowNightEighties
 
-#include</home/adrian/projects/xresources/capture_cc/creek_colours-color10>
+#include<path/to/creek_colours+color10>
 
 ! Other .Xresources code here
 
