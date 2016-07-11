@@ -13,7 +13,7 @@ Various .Xresources colour schemes made from combining stuff in my Adobe capture
 
 ## How to use:
 
-```
+```bash
 $ git clone https://github.com/AdrianKoshka/capture_colourschemes.git
 $ cd capture_colourschemes
 $ cp .Xresources ~/ #assuming you don't have one of your own
